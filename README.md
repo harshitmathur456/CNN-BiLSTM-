@@ -315,21 +315,3 @@ Input (30 timesteps × 12 features)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5+-purple?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.6+-blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12+-teal)
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> ⭐ If this project helped you, consider giving it a star!
